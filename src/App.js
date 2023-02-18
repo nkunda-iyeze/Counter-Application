@@ -1,11 +1,13 @@
 
 import './App.css';
 import { useState } from 'react';
+// import App1 from './App1';
 function App() {
   return (
     <div className="App">
       <h3> Simple Counter App</h3>
-      <ButtonSate/>
+      <ButtonSate />
+    
     </div>
   );
 }
